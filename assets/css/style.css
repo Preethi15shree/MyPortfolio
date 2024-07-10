@@ -415,7 +415,7 @@ a:hover{
     background-size: contain;
     background-position: bottom;
     background-repeat: no-repeat;
-    background-image: url(assets/images/projects/profileimages.jpg);
+    background-image: url(assets/images/profile-image.png);
 }
 
 @media (max-width: 576px) {
